@@ -12,7 +12,7 @@
 
 <h3 align="left">🩺Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hayapo_hip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hayapo_hip" height="30" width="40" /></a>
+<a href="https://twitter.com/hayapo_hip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/super-tiny-icons@0.4.0/images/svg/twitter.svg" alt="hayapo_hip" height="30" width="40" /></a>
 </p>
 
 
