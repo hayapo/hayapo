@@ -15,6 +15,7 @@
 <a href="https://twitter.com/hayapo_hip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/super-tiny-icons@0.4.0/images/svg/twitter.svg" alt="hayapo_hip" height="30" width="40" /></a>
 </p>
 
-
+<h3>
 <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=tokyonight"/></a>
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=tokyonight&langs_count=8&layout=compact"/></a>
+</h3>
