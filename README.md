@@ -12,3 +12,8 @@
 <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true"/></a>
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo"/></a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hayapo_hip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hayapo_hip" height="30" width="40" /></a>
+</p>
+
