@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Rust, React**
 - 🏫 I'm a Third Year Student of Nagoya Uni.
+- 🎓 Trust Me, I'm A Cognitive Science Major.
+- 🧪 Researching the relationship between body ownership and movement in VR space.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,7 +12,7 @@
 
 
 <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=tokyonight"/></a>
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=tokyonight&langs_count=8"/></a>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=tokyonight&langs_count=8&layout=compact"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
