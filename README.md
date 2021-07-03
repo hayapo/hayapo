@@ -5,7 +5,7 @@
     <img alt="github stats" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=buefy"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&langs_count=8&layout=compact"/>
+    <img alt="Top Langs" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&langs_count=8&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles"/>
 </a>
 
 <p align="left">
