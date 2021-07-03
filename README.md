@@ -5,13 +5,23 @@
     <img alt="Top Langs" height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&langs_count=8&layout=compact"/>
 </p>
 
-## 🥼A Student developer
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <p align="left">
+
+## 🥼A Student developer
+
 - 🌱 I’m currently learning **Rust, React**
 - 🏫 I'm a Third Year Student of Nagoya Uni.
 - 🎓 Trust Me, I'm A Cognitive Science Major.
 - 🧪 Researching the relationship between body ownership and movement in VR space.
+
 </p>
 
 ## 🩺Connect with me:
