@@ -7,10 +7,12 @@
 
 ## 🥼A Student developer
 
+<p align="left">
 - 🌱 I’m currently learning **Rust, React**
 - 🏫 I'm a Third Year Student of Nagoya Uni.
 - 🎓 Trust Me, I'm A Cognitive Science Major.
 - 🧪 Researching the relationship between body ownership and movement in VR space.
+</p>
 
 ## 🩺Connect with me:
 <p align="left">
