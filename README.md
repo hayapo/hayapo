@@ -1,7 +1,7 @@
 ### Hi there, I'm hayapo👋
 [![SAC_](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSAC_)](https://atcoder.jp/users/SAC_)
 
-<table>
+<table border="3" cellspacing="0" cellpadding="3">
   <tr>
     <td><img alt="github stats" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=buefy"/></td>
     <td><img alt="Top Langs" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&langs_count=8&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles"/></td>
