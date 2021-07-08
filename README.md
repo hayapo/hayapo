@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td><img alt="github stats" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true& theme=buefy"/></td>
+    <td><img alt="github stats" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=buefy"/></td>
     <td><img alt="Top Langs" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&langs_count=8&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles"/></td>
   </tr>
 </table>
