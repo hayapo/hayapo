@@ -1,9 +1,12 @@
 <p align="center">
   <img height="100px" src="img/icon.png" />
 </p>
-<h2 align="center">
-    Saito Hayato / 斉藤 隼人
-</h2>
+<h3 align="center">
+    Saito Hayato / 斉藤 隼人<br>
+</h3>
+<h5 align="center">
+  Virtual Reality & Cognitive Science
+</h5>
 
 <p align="center">
    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=buefy"/>
