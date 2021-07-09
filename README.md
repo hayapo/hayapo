@@ -1,13 +1,15 @@
-### Hi there, I'm hayapo👋
-[![SAC_](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSAC_)](https://atcoder.jp/users/SAC_)
-
+<p align="center">
+  <img height="100px" src="img/icon.png" />
+</p>
+<h2 align="center">
+    Saito Hayato / 斉藤 隼人
+</h2>
 
 <img alt="github stats" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=buefy"/>　<img alt="Top Langs" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&langs_count=8&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles"/>
 
-
 <p align="left">
 
-### I'm Saito Hayato, a student developer from Japan.
+### A student developer from Japan.
 
 - 🌱 I’m currently learning **Unity, Rust, React**
 - 🏫 I'm a fourth year student of Nagoya University.
