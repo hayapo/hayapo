@@ -17,17 +17,12 @@
 
 ### A student developer from Japan.
 
-- 🌱 I’m currently learning **Unity, Rust, React**
-- 🏫 I'm a fourth year student of Nagoya University.
+- 🌱 Frequently using **Python, TypeScript**
+- 🏫 I'm a Master student of Nagoya University.
 - 🎓 Trust Me, I'm A Cognitive Science Major.
-- 🧪 Researching the relationship between body ownership and movement in VR space.
+- 🧪 Researching BMI/BCI and Neuroscience. 
 
 </p>
-
-### **Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 ### Connect with me🩺
 <a href="https://twitter.com/hayapo_hip">
