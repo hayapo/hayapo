@@ -1,30 +1,76 @@
-<p align="center">
-  <img height="100px" src="img/icon.png" />
-</p>
-<h3 align="center">
-    Saito Hayato / 斉藤 隼人<br>
-</h3>
-<h5 align="center">
-  Virtual Reality & Cognitive Science
-</h5>
+<div>
+  <div align="center">
+    <img height="100px" src="img/icon.png" />
+  </div>
+  <h3 align="center">
+      Hello, I'm hayapo!
+  </h3>
+</div>
 
-<p align="center">
-   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=buefy"/>
-   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles,dotfiles_mac,OpenBCI_BMI"/>
-</p>
+<hr />
 
-<p align="left">
+<div>
+  <h3>
+      Saito Hayato / 斉藤 隼人
+  </h3>
+  <div>
+    <h3> About me </h3>
+    NeuroScience & Virtual Reality & Cognitive Science Enthusiast
+    <h4>A student developer from Japan &#x1f1ef;&#x1f1f5;</h4>
+    
+  - 🌱 Frequently using **Python, TypeScript**
+  - 🏫 I'm a Master student of Nagoya University.
+  - 🎓 Trust Me, I'm A Cognitive Science Major.
+  - 🧪 Researching BMI/BCI and Neuroscience. 
+  </div>
+</div>
 
-### A student developer from Japan.
+<hr />
 
-- 🌱 Frequently using **Python, TypeScript**
-- 🏫 I'm a Master student of Nagoya University.
-- 🎓 Trust Me, I'm A Cognitive Science Major.
-- 🧪 Researching BMI/BCI and Neuroscience. 
+<div>
+  <div>
+    <p align="left"> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      </a>
+      <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+      </a>
+      <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
+      </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      </a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" fill="%23ffffff"/>
+      </a> 
+      <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+      </a>
+    </p>
+  </div>
+   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=tokyonight"/>
+   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=tokyonight&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles,dotfiles_mac,OpenBCI_BMI"/>
+</div>
 
-</p>
+<div>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hayapo&column=7&theme=onedark"/>
+</div>
 
-### Connect with me🩺
-<a href="https://www.linkedin.com/in/hayato-saito-25637b1b8/">
-  <img align="left" alt="Hayapo |linkedin" width="40px" src="img/linkedin.svg" />
-</a>
+<div>
+  <h3> My own Tech Blog </h3>
+  https://blog.hayapo.dev/
+</div>
+
+<div>
+  <h3> Connect with me🩺 </h3>
+  <a href="https://www.linkedin.com/in/hayato-saito-25637b1b8/">
+    <img align="left" alt="Hayapo |linkedin" width="40px" src="img/linkedin.svg" />
+  </a>
+</div>  
