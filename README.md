@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img height="100px" src="img/icon.png" />
+    <img width="500" height="500" src="img/icon_2.png" />
   </div>
   <h3 align="center">
       Hello, I'm hayapo!
@@ -48,11 +48,11 @@
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
       </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" fill="%23ffffff"/>
-      </a> 
       <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
       </a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="img/NextJS.png" alt="nextjs" width="50" height="40" fill="%23ffffff"/>
+      </a> 
     </p>
   </div>
    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=tokyonight"/>
@@ -60,9 +60,9 @@
 </div>
 
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hayapo&column=7&theme=onedark"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hayapo&column=7&theme=tokyonight"/>
 </div>
-
+<hr/>
 <div>
   <h3> My own Tech Blog </h3>
   https://blog.hayapo.dev/
@@ -70,7 +70,13 @@
 
 <div>
   <h3> Connect with me🩺 </h3>
+  <a href="https://twitter.com/hayapo_hip">
+    <img align="left" alt="Hayapo | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.wantedly.com/id/haya_to">
+    <img align="left" alt="Hayapo | Wantedly" width="40px" src="img/Wantedly_Mark_DarkBG.png" />
+  </a>
   <a href="https://www.linkedin.com/in/hayato-saito-25637b1b8/">
-    <img align="left" alt="Hayapo |linkedin" width="40px" src="img/linkedin.svg" />
+    <img align="left" alt="Hayapo | linkedin" width="40px" src="img/linkedin.png" />
   </a>
 </div>  
