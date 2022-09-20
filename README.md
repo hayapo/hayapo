@@ -10,7 +10,7 @@
 
 <p align="center">
    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=buefy"/>
-   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&langs_count=8&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles"/>
+   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=buefy&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles,dotfiles_mac,OpenBCI_BMI"/>
 </p>
 
 <p align="left">
@@ -25,9 +25,6 @@
 </p>
 
 ### Connect with me🩺
-<a href="https://twitter.com/hayapo_hip">
-  <img align="left" alt="Hayapo | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/hayato-saito-25637b1b8/">
   <img align="left" alt="Hayapo |linkedin" width="40px" src="img/linkedin.svg" />
 </a>
