@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img width="400" height="400" src="img/icon_2.png" />
+    <img width="300" height="300" src="img/icon_2.png" />
   </div>
   <h3 align="center">
       Hello, I'm hayapo!
