@@ -56,7 +56,7 @@
     </p>
   </div>
    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayapo&count_private=true&show_icons=true&theme=tokyonight"/>
-   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=tokyonight&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles,dotfiles_mac,OpenBCI_BMI"/>
+   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayapo&theme=tokyonight&layout=compact&exclude_repo=Hayapo_Portfolio,dotfiles,dotfiles_mac,OpenBCI_BMI,Traffic_Light"/>
 </div>
 
 <div>
