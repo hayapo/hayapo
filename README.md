@@ -7,6 +7,7 @@ status = "Master's degree students"
 
 [skills]
  frequently_use = ["Typescript", "Go", "Python", "C#"]
+ frameworks = ["React"]
  learning = ["Rust", "Elm", "Nix"]
  
 [natural_languages]
