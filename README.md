@@ -1,6 +1,6 @@
 ```toml
 [bio]
-name = "hayapo" # Real name => Hayato Saito
+name = "hayapo" # Real world name => Hayato Saito
 age = 23
 live = "Nagoya, Japan"
 status = "Master's degree students"
