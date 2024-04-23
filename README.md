@@ -2,8 +2,8 @@
 [bio]
 name = "hayapo" # Real world name => Hayato Saito
 age = 24
-live = "Nagoya, Japan"
-status = "Master's degree students"
+live = "Tokyo, Japan"
+status = "Web frontend developer"
 
 [skills]
  frequently_use = ["Typescript", "Go", "Python", "C#"]
