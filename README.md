@@ -1,12 +1,12 @@
 ```toml
 [bio]
 name = "hayapo"
-age = 24
+age = 25
 live = "Tokyo, Japan"
 status = "Web frontend developer"
 
 [skills]
- frequently_use = ["Typescript", "Go", "Python", "C#"]
+ frequently_use = ["TypeScript", "JavaScript", "Go", "Python", "C#"]
  frameworks = ["React"]
  learning = ["Rust", "Elm", "Nix"]
  
