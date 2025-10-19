@@ -1,14 +1,15 @@
 ```toml
 [bio]
 name = "hayapo"
-age = 25
+sex = male
+age = 26
 live = "Tokyo, Japan"
 status = "Web frontend developer"
 
 [skills]
- frequently_use = ["TypeScript", "JavaScript", "Go", "Python", "C#"]
- frameworks = ["React"]
- learning = ["Rust", "Elm", "Nix"]
+ frequently_use = ["TypeScript", "JavaScript", "Python", "C#"]
+ frameworks = ["React", "hono"]
+ learning = ["Rust", "Golang", "Elm"]
  
 [natural_languages]
 native = ["ja"]
